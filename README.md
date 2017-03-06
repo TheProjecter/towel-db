@@ -1,0 +1,1 @@
+toweldb is an extremely simple two-dimensional database library currently only available for Python.  It has been designed for data integrity over performance by using a simple textual data storage format so that it can be easily repaired by hand if needed.  It is primarily aimed at usages where a search delay is preferable to a broken database (i.e. package managers).
